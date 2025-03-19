@@ -1,4 +1,3 @@
-# Loan-Risk-Prediction-System
 # Loan Risk Prediction System
 
 ## Project Description
